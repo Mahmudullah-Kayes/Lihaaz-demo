@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <Link to="/" className="text-2xl font-serif font-bold text-gray-900 tracking-tight mb-4 inline-block">
-              AURA
+              Lihaaz
             </Link>
             <p className="text-sm text-gray-500 mb-6 max-w-xs">
               Elevating everyday essentials with timeless design and sustainable practices.
@@ -47,7 +47,7 @@ export default function Footer() {
         
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-400 mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} AURA. All rights reserved.
+            &copy; {new Date().getFullYear()} Lihaaz. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <a href="#" className="text-gray-400 hover:text-gray-600">
